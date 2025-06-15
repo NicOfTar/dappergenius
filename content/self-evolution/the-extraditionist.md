@@ -1,0 +1,17 @@
+---
+title: .//Self-Evolution/Review - The Extraditionist
+---
+
+I grabbed The Extraditionist as a Prime Early Access Deal. I was looking for something outside my diet of science-fiction and fantasy. I figured a good crime novel was the way to go. I might have been right, this was just the wrong novel.
+
+This is supposed to be a novel about a drug lawyer—they call them Extraditionist south of the equator—that is all slime but is looking for a way out. He needs one more score, and he will stop with his murdering, drug dealing, clients to live on a beach somewhere. A standard criminal wants out storyline.
+
+The problem is that Todd Merer chose to trap us inside the head of Benn Bluestone (yes two Ns), and aside from the first person, stream-of-consciousness narrator telling me he wants out, I would be hard pressed to believe it. In fact, Benn—or is it Todd—enjoys wasting pages of copy describing an expensive lawyer's lifestyle. Most of this novel is Benn getting in a car, getting on a plane, sleeping on a plane, getting off a plane, getting in a car, driving by stuff, thinking about his ex-wife, entering a prison, and meeting a bad guy. The characters grunt two words at each other and then our over-payed lawyer exits a prison, thinks about his past, drives by stuff, gets out of a car, goes to a hotel, gets drunk, maybe not, gets in a car, gets on a plane, and ends up back in New York. Wash, rinse, repeat.
+
+Aside from proving that Todd Merer has visited the places he describes in the book, I found little use for most of it. There are good scenes here, enough to keep me engaged to the end. They could have been spectacular if I wasn’t trapped in Benn's head. Most of those scenes happen in Puerto Rico and involve Benn's past, but to get there… well wash, rinse, and repeat all the travelling bits from above, lock us in a first-person view point, and I just didn't care anymore.
+
+I would not have purchased this book or read it on Kindle Unlimited because of the first-person narrative style, but I am glad I read it to the end. It reminded me that writing is hard and sometimes you make bad choices with a good story. On good days, you get a second chance to revisit those decisions. I hope that Todd Merer revisits his need to write in the lazy first-person, stream-of-consciousness narrative and opens Benn's world to his readers.
+
+Another reason I am glad I finished The Extraditionist is that it helped me finish The Fundamentals. I was sitting on a final draft, afraid to go forward, afraid of what others might think. Then I realized that The Extraditionist had a publishing contract, was featured on Amazon Prime's Early Access, and already had tens of reviews. I figured if this lazily written book could accomplish so much; The Fundamentals deserved a chance. I know I am biased, but my friends will tell you that if I do something that is crap, I will call it crap. The Fundamentals is not crap. The Extraditionist is close.
+
+I didn't like the first-person narrative, and I really didn't like the endless details of Benn's travelling, so I won't be reading any more of the Benn Bluestone adventures. I like characters; I like dialog; I like the interplay of characters in scenes that build tension and carry the story forward. This book didn't have it, Todd Merer has the chops to write that book, and the moment I see one not locked into the first-person narrative, I will read it.
