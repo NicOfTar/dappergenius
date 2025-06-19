@@ -134,3 +134,14 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# My Changes
+
+# Nuxt Content cache
+.data
+# macOS system files
+.DS_Store
+# VS Code settings
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
