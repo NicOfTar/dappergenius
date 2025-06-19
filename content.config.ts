@@ -16,5 +16,9 @@ export default defineContentConfig({
       source: "short-stories/**/*.md",
       type: "page",
     }),
+    "content": defineCollection({
+      source: "*.md",
+      type: "page",
+    }),
   },
 });

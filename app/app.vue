@@ -28,14 +28,11 @@ useSeoMeta({
 </script>
 
 <template>
-  <div>
+  <div class="container mx-auto py-8">
     <header>
-      <!-- <template>
         <NuxtLink to="/">
-          <img src="/logo/dapperbrand.svg" alt="DapperGenius Logo" width="50" height="50">
+          <img src="/logo/dapperlogo_lg_s.png" alt="DapperGenius Logo">
         </NuxtLink>
-      </template> -->
-
     </header>
 
     <main>

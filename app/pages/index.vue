@@ -8,6 +8,8 @@ useSeoMeta({
 </script>
 
 <template>
+<div class="container mx-auto py-8">
   <ContentRenderer v-if="home" :value="home" />
   <div v-else>Home not found</div>
+</div>
 </template>
