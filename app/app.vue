@@ -8,7 +8,7 @@ useHead({
     { name: 'viewport', content: 'width=device-width, initial-scale=1' }
   ],
   link: [
-    { rel: 'icon', type: 'image/x-icon', href: '/logo/favicon.ico' },
+    { rel: 'icon', type: 'image/x-icon', href: '/logo/favicon.png' },
   ],
   htmlAttrs: {
     lang: 'en'
@@ -30,11 +30,11 @@ useSeoMeta({
 <template>
   <div>
     <header>
-      <template>
+      <!-- <template>
         <NuxtLink to="/">
           <img src="/logo/dapperbrand.svg" alt="DapperGenius Logo" width="50" height="50">
         </NuxtLink>
-      </template>
+      </template> -->
 
     </header>
 

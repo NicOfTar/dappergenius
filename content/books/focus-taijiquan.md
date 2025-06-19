@@ -1,6 +1,5 @@
 ---
-subtitle: A Study of the Taijiquan Classics
-title: .//Books/Focus Taijiquan
+title: Focus Taijiquan: A study of the Taijiquan Classics
 ---
 
 \![\](<u>/images/focus-taijiquan-cover.jpg</u> "Focus Taijiquan, A Study of the Taijiquan Classics")

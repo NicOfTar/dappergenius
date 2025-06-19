@@ -1,5 +1,6 @@
 ---
-Subtitle: Walking, Martial Arts, and Self Evolution
+title: Earth Dragon Canon
+subtitle: Walking, Martial Arts, and Self Evolution
 ---
 
 “This is the only book on the subject that is easy to follow.” D. Gold.
