@@ -28,24 +28,24 @@ useSeoMeta({
 </script>
 
 <template>
-  <UApp>
-    <UHeader>
-      <template #logo>
+  <div>
+    <header>
+      <template>
         <NuxtLink to="/">
           <img src="/logo/dapperbrand.svg" alt="DapperGenius Logo" width="50" height="50">
         </NuxtLink>
       </template>
 
-    </UHeader>
+    </header>
 
-    <UMain>
-      <NuxtLayout name="default">
+    <main>
+      <NuxtLayout>
         <NuxtPage />
       </NuxtLayout>
-    </UMain>
+    </main>
 
-    <UFooter>
+    <footer>
       <p>&copy; 2025 Troy Williams. All rights reserved.</p>
-    </UFooter>
-  </UApp>
+    </footer>
+  </div>
 </template>
