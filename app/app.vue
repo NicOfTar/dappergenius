@@ -31,7 +31,7 @@ useSeoMeta({
   <div class="container mx-auto py-8">
     <header>
         <NuxtLink to="/">
-          <img src="/logo/dapperlogo_lg_s.png" alt="DapperGenius Logo">
+          <img src="/logo/dapperlogo_lg_s.png" alt="DapperGenius Logo" class="w-full max-w-xs h-auto">
         </NuxtLink>
     </header>
 
