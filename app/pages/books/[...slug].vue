@@ -11,5 +11,8 @@ if (!page.value) {
 </script>
 
 <template>
-  <ContentRenderer v-if="page" :value="page" />
+  <div class="container mx-auto py-8">
+    <h1 class="text-3xl font-bold mb-6">{{ page?.title }}</h1>
+    <ContentRenderer v-if="page" :value="page" />
+  </div>
 </template>
